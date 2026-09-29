@@ -1,5 +1,5 @@
-Môn: Lập Trình Thiết Bị Di Động (React Native)
-Tên Chương Trình: Movie App
-Họ Tên SV: Nguyễn Nam Trung Nguyên
-MSSV: 23640731
-Số bài làm được: 7/7
+Môn: Lập Trình Thiết Bị Di Động (React Native) <br/>
+Tên Chương Trình: Movie App<br/>
+Họ Tên SV: Nguyễn Nam Trung Nguyên<br/>
+MSSV: 23640731<br/>
+Số bài làm được: 7/7<br/>
